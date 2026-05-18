@@ -21,7 +21,7 @@ El objetivo principal es traducir la inteligencia de amenazas en ejercicios prá
 * **Automatización & Hardening:** Desarrollo de scripts de auditoría y defensa activa.
 * **Infraestructura de Simulación:** Despliegue de escenarios controlados y análisis de telemetría de red.
 
-## 🛠 arrow_forward Arquitectura de Simulación
+## 🛠 Arquitectura de Simulación
 El framework procesa las solicitudes a través de un pipeline de 5 pasos:
 * **Threat Actor Profile** (Modelado de Amenazas)
 * **Target Assets** (Gestión de Superficie de Ataque)
